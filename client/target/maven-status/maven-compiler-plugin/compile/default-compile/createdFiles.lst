@@ -1,0 +1,16 @@
+org\example\RequestReader.class
+org\example\tools\Generators.class
+org\example\ClientConnect.class
+org\example\tools\CreateWorker.class
+org\example\commads\AddCommand.class
+org\example\commads\ExecuteScript.class
+org\example\tools\CommandManager.class
+org\example\commads\Command.class
+org\example\io\FileScanner.class
+org\example\io\InputHandler.class
+org\example\commads\ExitCommand.class
+org\example\commads\UpdateCommand.class
+org\example\ClientMain.class
+org\example\ResponseSender.class
+org\example\consoleModule\ReadConsole.class
+org\example\io\OutputHandler.class

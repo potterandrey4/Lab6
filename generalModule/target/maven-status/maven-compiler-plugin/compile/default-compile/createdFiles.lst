@@ -1,0 +1,11 @@
+org\example\collection\classes\Organization.class
+org\example\messages\Msg.class
+org\example\messages\BaseMsg.class
+org\example\messages\MsgWithWorker.class
+org\example\collection\classes\Position.class
+org\example\collection\classes\OrganizationType.class
+org\example\collection\classes\Worker.class
+generalModule\exceptions\ReadException.class
+org\example\messages\MsgWithArg.class
+org\example\collection\classes\Coordinates.class
+org\example\collection\classes\Status.class
